@@ -1,9 +1,9 @@
 {
-    "name": "Dark Matter",
-    "description": "A cold, dark & frosty theme.",
-    "version": "3.0",
-    "author": "Tropical#8908, Hammock#3110",
-    "theme": "DarkMatter.theme.css",
+    "name": "Rainy Day",
+    "description": "Lofi Theme of Rain",
+    "version": "1.0",
+    "author": "3itx#0001",
+    "theme": "RainyDay.theme.css",
     "consent": ["ext_listing"],
     "license": "MIT"
 }
